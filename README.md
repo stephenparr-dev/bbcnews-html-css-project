@@ -7,14 +7,19 @@ My re-creation files:
 
 bbc-news-tech.html
 bbc-news-tech.css
+Images (folder)
 
 Downloaded files from the original website:
 
 Technology - BBC News.html
-Technology - BBC News_files
+Technology - BBC News_files (folder)
 
 Screenshot of the original page:
 
 BBC News - Tech (top).png
+
+Screenshot of the re-creation:
+
+BBC News - Tech - re-creation.png
 
 I know that some of the spacing is a little bit out, but I think it would most likely fool someone if they just glanced at it in passing.
