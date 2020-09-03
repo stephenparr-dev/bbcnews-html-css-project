@@ -8,6 +8,7 @@ My re-creation files:
 bbc-news-tech.html
 bbc-news-tech.css
 Images (folder)
+favicon.ico
 
 Downloaded files from the original website:
 
@@ -22,4 +23,4 @@ Screenshot of the re-creation:
 
 BBC News - Tech - re-creation.png
 
-I know that some of the spacing is a little bit out, but I think it would most likely fool someone if they just glanced at it in passing.
+I know that some of the spacing is a little bit out, and that I could tighten up some of my CSS (merging some IDs into Classes), but I think it would most likely fool someone if they just glanced at it in passing. Plus, this is the first time I've tried something like this from scratch.
