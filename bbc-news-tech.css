@@ -1,0 +1,807 @@
+body {
+
+	margin: 0;
+	padding: 0;
+	font-family:"HelveticaNeue","Helvetica","Arial",sans-serif;
+	
+}
+
+#logo {
+
+	margin-top: 8px;
+	width: 85px;
+	float: left;
+	margin-right: 16px;
+	
+}
+
+#header-menu-div {
+
+	height: 40px;
+	/* width: 1248px; */
+	margin-left: 327px;
+	/* background-color: pink; test purposes only*/
+
+}
+
+.header-section {
+
+	float: left;
+	border-left: 1px #cccccc solid;
+	height: 100%;
+}
+
+#signin-div {
+	
+	float: left;
+	
+}
+
+#signin-image {
+
+	width: 22px;
+	margin-top: 9px;
+	margin-bottom: 9px;
+	margin-left: 14px;
+	margin-right: 5px;
+	float: left;
+
+}
+
+#signin-text {
+
+	position: relative;
+	top: 12px;
+	margin-right: 83px;
+	font-size: 90%;
+	font-weight: bold;
+	
+}
+
+#bell-div {
+	
+	float: left;
+	
+}
+
+#wigglyline {
+
+	height: 40px;
+	color: solid gray;
+
+}
+
+#bell {
+	
+	height: 22px;
+	margin-bottom: 7px;
+	margin-left: 3px;
+	margin-right: 14px;
+	
+}
+
+.header-menu {
+	
+	font-size: 90%;
+	font-weight: bold;
+	padding-top: 12px;
+	padding-left: 20px;
+	padding-right: 16px;
+	height: 27px;
+	
+}
+
+#more-arrow {
+	
+	margin-left: 58px;
+	
+}
+
+#search-box {
+	
+	background-color: #e4e4e4;
+	font-weight: bold;
+	font-size: 14px;
+	border: none;
+	float: left;
+	padding: 4px;
+	margin-left: 15px;
+	margin-top: 8px;
+	width: 146px;
+	
+}
+
+#magnifying-glass {
+	
+	height: 24px;
+	margin-top: 8px;
+	
+}
+
+.clear {
+	
+	clear: both;
+	
+}
+
+#news-banner {
+
+	border-top: 1px solid #cccccc;
+	background-color: #bb1919;
+	height: 92px;
+	/*z-index: 1;*/
+
+}
+
+#news-header {
+
+	height: 47px;
+	/*width: 1248px;*/
+	margin-left: 327px;
+	/*margin: 0 auto;*/
+	/*margin-right: 328px;*/
+	/*z-index: 2;*/
+	/*background-color: blue; for testing only*/
+
+}
+
+h1 {
+	
+	padding: 0;
+	margin: 0;
+	font-size: 42px;
+	font-weight: normal;
+	color: #ffffff;
+	float: left;
+	margin-left: -327px;
+	padding-top: 7px;
+	
+}
+
+#news-header-menu {
+	
+	margin-left: 317px;
+	
+}
+
+#news-menu a {
+	
+	color: #ffffff;
+	text-decoration: none;
+	position: relative;
+	font-size: 14px;
+	border-right: 1px solid #bb454f;
+	padding: 0 10px;
+	top: 17px;
+	
+}
+
+#news-menu a:hover {
+	
+	text-decoration: underline;
+	
+}
+
+.no-border {
+	
+	border: none !important;
+	
+}
+
+#down-arrow {
+	
+	position: relative;
+	top: 16px;
+	margin-left: -11px;
+	
+}
+
+#tech-header {
+	
+	margin-left: 327px;
+	height: 45px;
+	position: relative;
+	
+}
+
+h3 {
+	
+	padding: 0;
+	margin: 0;
+	width: 107px;
+	font-weight: normal;
+	padding-top: 10px;
+	padding-bottom: 1px;
+	border-bottom: 3px solid #bb1919;
+	letter-spacing: 1.3px;
+	
+}
+
+#tech-stories {
+	
+	margin-left: 327px;
+	height: 1424px;
+	width: 1265px;
+	position: relative;
+	/*background-color: #e4e4e4; /*for testing only*/
+	
+}
+
+#apple-fortnite {
+	
+	width: 490px;
+	height: 600px;
+	
+}
+
+#fortnite {
+	
+	padding-top: 32px;
+	
+}
+
+#apple-fortnite a {
+	
+	text-decoration: none;
+	position: relative;
+	top: 9px;
+	font-size: 26px;
+	font-weight: bold;
+	color: #5e5e5e;
+	
+}
+
+#apple-fortnite a:hover {
+	
+	text-decoration: underline;
+	color: #1380a1;
+	
+}
+
+#fortnite-text {
+	
+	top: 2px;
+	position: relative;
+	color: #5e5e5e;
+	font-size: 15px;
+	
+}
+
+#clock-fortnite {
+	
+	position: relative;
+	height: 16px;
+	top: 2px;
+	margin-left: -2px;
+	
+}
+
+.clock-time {
+	
+	font-size: 13px;
+	color: #5e5e5e;
+	border-right: 1px solid #cccccc;
+	
+}
+
+.clock-section {
+	
+	font-size: 13px;
+	color: #5e5e5e;
+	padding-left: 5px;
+	
+}
+
+#fortnite-bullets {
+	
+	margin: 0;
+	padding: 0;
+	list-style-position: inside;
+	font-weight: bold;
+	padding-top: 35px;
+	padding-left: 5px;
+	font-size: 15px;
+	line-height: 1.5;
+	
+}
+
+.other-stories {
+	
+	width: 240px;
+	height: 300px;	
+	
+}
+
+.other-stories-images {
+	
+	padding-top: 32px;
+	float: left;
+	
+}
+
+#qualcomm {
+	
+	position: absolute;
+	top: 0;
+	left: 506px;
+	
+}
+
+#qualcomm a {
+	
+	text-decoration: none;
+	position: relative;
+	top: 9px;
+	font-size: 15px;
+	font-weight: bold;
+	color: #000000;
+	line-height: 1.5;
+	letter-spacing: 0.3px;
+	
+}
+
+#qualcomm a:hover {
+	
+	text-decoration: underline;
+	color: #1380a1;
+	
+}
+
+#qualcomm-text {
+	
+	top: 2px;
+	position: relative;
+	color: #5e5e5e;
+	font-size: 14px;
+	letter-spacing: 0.2px;
+	line-height: 1.3;
+	
+}
+
+#clock-qualcomm {
+	
+	position: relative;
+	height: 16px;
+	top: -4px;
+	left: -3px;
+	
+}
+
+.clock-other-stories {
+	
+	position: relative;
+	top: -6px;
+	
+}
+
+#windows95 {
+	
+	position: absolute;
+	top: 0;
+	left: 760px;
+	
+}
+
+#windows95 a {
+	
+	text-decoration: none;
+	position: relative;
+	top: 9px;
+	font-size: 15px;
+	font-weight: bold;
+	color: #000000;
+	line-height: 1.5;
+	letter-spacing: 0.3px;
+	
+}
+
+#windows95 a:hover {
+	
+	text-decoration: underline;
+	color: #1380a1;
+	
+}
+
+#windows95-text {
+	
+	top: 2px;
+	position: relative;
+	color: #5e5e5e;
+	font-size: 14px;
+	letter-spacing: 0.4px;
+	line-height: 1.3;
+	
+}
+
+#facebook-thai-monarchy {
+	
+	position: absolute;
+	top: 0;
+	left: 1015px;
+	
+}
+
+#facebook-thai-monarchy a {
+	
+	text-decoration: none;
+	position: relative;
+	top: 9px;
+	font-size: 15px;
+	font-weight: bold;
+	color: #000000;
+	line-height: 1.5;
+	letter-spacing: 0.3px;
+	
+}
+
+#facebook-thai-monarchy a:hover {
+	
+	text-decoration: underline;
+	color: #1380a1;
+	
+}
+
+#facebook-thai-text {
+	
+	top: 2px;
+	position: relative;
+	color: #5e5e5e;
+	font-size: 14px;
+	letter-spacing: 0.4px;
+	line-height: 1.3;
+	
+}
+
+#clock-facebook-thai {
+	
+	position: relative;
+	height: 16px;
+	top: -4px;
+	left: -5px;
+	
+}
+
+#scrabble-go-creepy {
+	
+	position: absolute;
+	top: 305px;
+	left: 506px;
+	
+}
+
+#scrabble-go-creepy a {
+	
+	text-decoration: none;
+	position: relative;
+	top: 9px;
+	font-size: 15px;
+	font-weight: bold;
+	color: #000000;
+	line-height: 1.5;
+	letter-spacing: 0.3px;
+	
+}
+
+#scrabble-go-creepy a:hover {
+	
+	text-decoration: underline;
+	color: #1380a1;
+	
+}
+
+#scrabble-go-text {
+	
+	top: 2px;
+	position: relative;
+	color: #5e5e5e;
+	font-size: 14px;
+	letter-spacing: 0.4px;
+	line-height: 1.3;
+
+	
+}
+
+#clock-scrabble-go {
+	
+	position: relative;
+	height: 16px;
+	top: -3px;
+	left: -3px;
+	
+}
+
+#trump-postal-vote {
+	
+	position: absolute;
+	top: 305px;
+	left: 760px;
+	
+}
+
+#trump-postal-vote a {
+	
+	text-decoration: none;
+	position: relative;
+	top: 9px;
+	font-size: 15px;
+	font-weight: bold;
+	color: #000000;
+	line-height: 1.5;
+	letter-spacing: 0.3px;
+	
+}
+
+#trump-postal-vote a:hover {
+	
+	text-decoration: underline;
+	color: #1380a1;
+	
+}
+
+#trump-postal-vote-text {
+	
+	top: 2px;
+	position: relative;
+	color: #5e5e5e;
+	font-size: 13.5px;
+	letter-spacing: 0.4px;
+	line-height: 1.3;
+	
+}
+
+#clock-trump-postal-vote {
+	
+	position: relative;
+	height: 16px;
+	top: 1px;
+	left: -4px;
+	
+}
+
+#bletchley-park {
+	
+	position: absolute;
+	top: 305px;
+	left: 1015px;
+	
+}
+
+#bletchley-park a {
+	
+	text-decoration: none;
+	position: relative;
+	top: 9px;
+	font-size: 15px;
+	font-weight: bold;
+	color: #000000;
+	line-height: 1.5;
+	letter-spacing: 0.3px;
+	
+}
+
+#bletchley-park a:hover {
+	
+	text-decoration: underline;
+	color: #1380a1;
+	
+}
+
+#bletchley-park-text {
+	
+	top: 2px;
+	position: relative;
+	color: #5e5e5e;
+	font-size: 13.5px;
+	letter-spacing: 0.4px;
+	line-height: 1.3;
+	
+}
+
+#clock-bletchley-park {
+	
+	position: relative;
+	height: 16px;
+	top: 1px;
+	left: -6px;
+	
+}
+
+.other-stories-headlines {
+	
+	width: 240px;
+	height: 240px;
+	
+}
+
+#facebook-france {
+	
+	position: absolute;
+	top: 642px;
+	
+}
+
+#facebook-france a {
+	
+	text-decoration: none;
+	position: relative;
+	top: 9px;
+	font-size: 15px;
+	font-weight: bold;
+	color: #000000;
+	line-height: 1.5;
+	letter-spacing: 0.3px;
+	
+}
+
+#facebook-france a:hover {
+	
+	text-decoration: underline;
+	color: #1380a1;
+	
+}
+
+#clock-facebook-france {
+	
+	position: relative;
+	height: 16px;
+	top: -1px;
+	left: -2px;
+	
+}
+
+#bts-dynamite {
+	
+	position: absolute;
+	top: 642px;
+	left: 253px;
+	
+}
+
+#bts-dynamite a {
+	
+	text-decoration: none;
+	position: relative;
+	top: 9px;
+	font-size: 15px;
+	font-weight: bold;
+	color: #000000;
+	line-height: 1.5;
+	letter-spacing: 0.3px;
+	
+}
+
+#bts-dynamite a:hover {
+	
+	text-decoration: underline;
+	color: #1380a1;
+	
+}
+
+#clock-bts-dynamite {
+	
+	position: relative;
+	height: 16px;
+	top: -1px;
+	left: -3px;
+	
+}
+
+#tiktok-trump {
+	
+	position: absolute;
+	top: 642px;
+	left: 506px;
+	
+}
+
+#tiktok-trump a {
+	
+	text-decoration: none;
+	position: relative;
+	top: 9px;
+	font-size: 15px;
+	font-weight: bold;
+	color: #000000;
+	line-height: 1.5;
+	letter-spacing: 0.3px;
+	
+}
+
+#tiktok-trump a:hover {
+	
+	text-decoration: underline;
+	color: #1380a1;
+	
+}
+
+#clock-tiktok-trump {
+	
+	position: relative;
+	height: 16px;
+	top: -1px;
+	left: -3px;
+	
+}
+
+#floating-caravans {
+	
+	position: absolute;
+	top: 642px;
+	left: 760px;
+	
+}
+
+#floating-caravans-time-img {
+	
+	position: absolute;
+	top: 133px;
+	left: 0px;
+	
+}
+
+#floating-caravans a {
+	
+	text-decoration: none;
+	position: relative;
+	top: 9px;
+	font-size: 15px;
+	font-weight: bold;
+	color: #000000;
+	line-height: 1.5;
+	letter-spacing: 0.3px;
+	
+}
+
+#floating-caravans a:hover {
+	
+	text-decoration: underline;
+	color: #1380a1;
+	
+}
+
+#clock-floating-caravans {
+	
+	position: relative;
+	height: 16px;
+	top: -1px;
+	left: -3px;
+	
+}
+
+#removing-co2 {
+	
+	position: absolute;
+	top: 642px;
+	left: 1015px;
+	
+}
+
+#removing-co2 a {
+	
+	text-decoration: none;
+	position: relative;
+	top: 9px;
+	font-size: 15px;
+	font-weight: bold;
+	color: #000000;
+	line-height: 1.5;
+	letter-spacing: 0.3px;
+	
+}
+
+#removing-co2 a:hover {
+	
+	text-decoration: underline;
+	color: #1380a1;
+	
+}
+
+#clock-removing-co2 {
+	
+	position: relative;
+	height: 16px;
+	top: -1px;
+	left: -5px;
+	
+}
+
