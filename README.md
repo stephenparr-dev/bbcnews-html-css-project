@@ -5,14 +5,14 @@ This involved taking a snapshot of the top screen of the Technology news page an
 
 My re-creation files:
 
-bbc-news-tech.html
-bbc-news-tech.css
-Images (folder)
+bbc-news-tech.html, 
+bbc-news-tech.css, 
+Images (folder), 
 favicon.ico
 
 Downloaded files from the original website:
 
-Technology - BBC News.html
+Technology - BBC News.html, 
 Technology - BBC News_files (folder)
 
 Screenshot of the original page:
